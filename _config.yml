@@ -1,7 +1,7 @@
 site: Journal Jekyll Theme
 
 url: https://jherr.github.io
-baseurl: /visible-light
+baseurl: /visible-light/
 destination: docs
 
 collections:
